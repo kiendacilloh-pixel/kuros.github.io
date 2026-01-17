@@ -1,8 +1,0 @@
-theme: jekyll-theme-minimal
-name: Kuro
-role: Developer
-skills:
-  - HTML
-  - CSS
-  - YAML
-about: Simple introduction written in YAML
